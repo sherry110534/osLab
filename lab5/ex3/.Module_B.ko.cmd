@@ -1,0 +1,1 @@
+cmd_/home/jing/osLab/lab5/ex3/Module_B.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/jing/osLab/lab5/ex3/Module_B.ko /home/jing/osLab/lab5/ex3/Module_B.o /home/jing/osLab/lab5/ex3/Module_B.mod.o

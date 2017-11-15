@@ -1,0 +1,1 @@
+cmd_/home/jing/osLab/lab5/hello_module.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/jing/osLab/lab5/hello_module.ko /home/jing/osLab/lab5/hello_module.o /home/jing/osLab/lab5/hello_module.mod.o
